@@ -20,6 +20,9 @@ dynamic scheduling, register renaming, and speculative execution.
 | **Memory Arbiter** | Shared burst memory (BMEM) between I-cache and D-cache |
 
 ---
+## Datapath
+
+![OoO Datapath](./ooo_datapath.svg)
 
 ## Benchmarks
 
