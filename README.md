@@ -40,3 +40,7 @@ spec and the Spike reference model:
 - Synopsys Design Compiler
 - RISC-V ISA (RV32IM)
 - Spike RISC-V Simulator
+
+## Contact
+
+For inquiries about the code or design report, please reach out to me directly.
